@@ -9,11 +9,6 @@ public class Connections {
     //Access to batabase;
     public static final String USER = "sql3739987";
     public static final String PASSWORD = "RCY3Bjhukx";
-    
-    
+  
     public static final String DBURI = DB_URL+":"+PORT+"/"+DATABASE;
-    
-    
-     
-    
 }
